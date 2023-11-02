@@ -1,3 +1,3 @@
 # week9_assignment
 
-hi im jaein
+Team member list: suyeon Jeon, Jaein Park
