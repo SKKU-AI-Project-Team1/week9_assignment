@@ -1,5 +1,5 @@
 # week9_assignment
 
-
-Team member list: suyeon Jeon, Jaein Park
+Team member list: suyeon Jeon,
+Team member list: hyeonjeong,
 
